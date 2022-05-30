@@ -3,3 +3,5 @@ It is an informative project base with a concept call One Piece: a TV series whi
 The project’s target users are primarily fans of the selected concept which is 
 One Piece and those individuals who seeks information regarding the said concept.
 
+
+
